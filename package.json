@@ -1,9 +1,9 @@
 {
-  "name": "eslint-changed-files",
+  "name": "git-find-changed-files",
   "version": "1.0.0",
   "description": "Find files that have changed since the master branch",
   "main": "findChangedFiles.sh",
-  "repository": "https://github.com/AaronBuxbaum/eslint-changed-files.git",
+  "repository": "https://github.com/AaronBuxbaum/git-find-changed-files.git",
   "author": "Aaron Buxbaum <AaronBuxbaum@gmail.com>",
   "license": "MIT",
   "private": false
