@@ -1,6 +1,6 @@
 {
   "name": "eslint-changed-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find files that have changed since the master branch",
   "main": "findChangedFiles.sh",
   "repository": "https://github.com/AaronBuxbaum/eslint-changed-files.git",
